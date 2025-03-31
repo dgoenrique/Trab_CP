@@ -3,7 +3,7 @@
 TARGET = goianinha
 
 LEX_SRC = lex.yy.cc
-MAIN_SRC = main.cpp
+MAIN_SRC = fake_analSint.cpp
 TOKENS = tokens.h
 
 CXX = g++
